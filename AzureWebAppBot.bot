@@ -1,0 +1,52 @@
+{
+  "name": "AzureWebAppBot",
+  "padlock": "1ymeqdzxPzLGe/WE+s/7cA==!LfmpbjgDOTloIMrdvTxnnI3Z3K1bYAAWiij6LW6Chjmi+k9JelX58RruqfSXRdrL",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "1276c37b-a9e6-4be1-9cab-eb11b7e95224",
+      "subscriptionId": "7b344842-2796-4812-85b0-fb5706b02dbc",
+      "resourceGroup": "LearnAzureResourceGroup",
+      "serviceName": "AzureWebAppBot",
+      "type": "abs",
+      "name": "AzureWebAppBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "RzG9F2gWEcQTVhUeSG4COA==!5KcN8S8278kMrxA+Q2S4yAtPL73t9hPJoAbZebPz4N9ny8LijUHWd3UnvhC9f7ByjS/mn9E5RX1E0FcGAqIvoba5QBVfncOEll+AasmsAemf35RnuKR9MD8X/WvVkbBmt/gpkoS/4BNSxdKCvHhTE7C9ReIi1f6ffAHLdc/VtL5FIEDaJEcmpYxZyvF6R7nT7v92Wvi3FH1LV04qq7Y7V39+K6pWcdmTeaiKEwjYcME=",
+      "tenantId": "1276c37b-a9e6-4be1-9cab-eb11b7e95224",
+      "subscriptionId": "7b344842-2796-4812-85b0-fb5706b02dbc",
+      "resourceGroup": "LearnAzureResourceGroup",
+      "serviceName": "azurewebappbotb0a8",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "c826efff-7fc8-405d-a271-450aef8e4b73",
+      "appPassword": "u2Y6cp119CHp83J1ldmAsA==!9YzPcMnihTOiuwi9tJV9XDLrQXSenrr69Qyd3D5tkwY=",
+      "endpoint": "https://azurewebappbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "S18s8Xc466SWgfLG7AHrEw==!AgESTViVFYuqAO3AuIe9Tz7rK6lW2syhFctqolke3WUuqSNUp8atDs7DGrWuEtko",
+      "applicationId": "11c18cb4-e4bf-4e52-8c76-b6726f591ab4",
+      "apiKeys": {},
+      "tenantId": "1276c37b-a9e6-4be1-9cab-eb11b7e95224",
+      "subscriptionId": "7b344842-2796-4812-85b0-fb5706b02dbc",
+      "resourceGroup": "LearnAzureResourceGroup",
+      "serviceName": "AzureWebAppBotlgqw5b",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

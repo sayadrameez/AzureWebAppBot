@@ -1,0 +1,3 @@
+C:\Rameez\Repo\AzureLearning\LearnAzure\AzureWebAppBot\obj\Debug\AzureWebAppBot.njsprojAssemblyReference.cache
+C:\Rameez\Repo\AzureLearning\LearnAzure\AzureWebAppBot\obj\Debug\AzureWebAppBot.njsproj.CoreCompileInputs.cache
+C:\Rameez\Repo\AzureLearning\LearnAzure\AzureWebAppBot\bin\Microsoft.NodejsTools.WebRole.dll
